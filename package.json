@@ -1,0 +1,16 @@
+{
+  "name": "tuya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "joshlasdin <joshlasdindesign@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/register": "^7.7.7",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "tuyapi": "codetheweb/tuyapi"
+  }
+}
