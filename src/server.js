@@ -43,9 +43,3 @@ app.use(router.routes());
 app.use(router.allowedMethods())
 app.listen(port);
 console.log(`>>> Listening on ${port}`);
-
-// Name                devId                       localKey
-// ------------------  --------------------------  ------------------
-// Closet              75111640dc4f22911765        4421a164d393770b
-// Aquarium Light      68102802dc4f22f09e9a        dd8b578b810d4c10
-// Christmas Tree      75111640dc4f22911ecf        fe2cac4e8fcba935
